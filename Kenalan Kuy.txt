@@ -1,5 +1,8 @@
 Nama	: Diyah Anggraeni
 NIM	: 15320108
 
-Nama : Nadira Zalfa
-NIM : 13020006
+Nama	: Nadira Zalfa
+NIM	: 13020006
+
+Nama	: Julian Syaputra Ikhwaningtrias
+NIM	: 13120174
